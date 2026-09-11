@@ -9,7 +9,7 @@
   complete the flow and copy the prepared request.
 */
 const CONFIG = {
-  BUSINESS_EMAIL: "",
+  BUSINESS_EMAIL: "joeyjlws@gmail.com",
   BOOKING_URL: "",
 };
 
